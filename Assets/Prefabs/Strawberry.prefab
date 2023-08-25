@@ -236,7 +236,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 01010101
-        actionIsOpen: 00000000
+        actionIsOpen: 00000100
         actionStartIndex: 00000000050000000a0000000e000000
         actionHashCodes: a0dd8303b2cf10009cdc3905230cc800
         unityObjectParams: []
@@ -267,7 +267,7 @@ MonoBehaviour:
         - ownerOption: 1
           gameObject:
             useVariable: 1
-            name: mainCamera
+            name: MainCamera
             tooltip: 
             showInInspector: 0
             networkSync: 0
