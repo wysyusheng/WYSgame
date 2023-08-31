@@ -51,7 +51,7 @@ MonoBehaviour:
   fsm:
     dataVersion: 2
     usedInTemplate: {fileID: 0}
-    name: "\u72B6\u6001\u673A"
+    name: "\u9009\u62E9"
     startState: Setup
     states:
     - name: Loop Child
@@ -183,7 +183,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 0101
-        actionIsOpen: 0101
+        actionIsOpen: 0000
         actionStartIndex: 0000000002000000
         actionHashCodes: 978a9b03b2cf1000
         unityObjectParams: []
@@ -289,7 +289,7 @@ MonoBehaviour:
         serializedVersion: 2
         x: 398.97656
         y: 290.10938
-        width: 140
+        width: 139.71428
         height: 16
       isBreakpoint: 0
       isSequence: 0
@@ -444,7 +444,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 010101
-        actionIsOpen: 000101
+        actionIsOpen: 000000
         actionStartIndex: 000000000400000007000000
         actionHashCodes: e2703a0476b3ca05603dd905
         unityObjectParams: []
@@ -715,7 +715,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 0101
-        actionIsOpen: 0001
+        actionIsOpen: 0000
         actionStartIndex: 0000000005000000
         actionHashCodes: b2cf10002181e802
         unityObjectParams: []
@@ -931,7 +931,7 @@ MonoBehaviour:
     handleAnimatorMove: 0
     handleAnimatorIK: 0
   fsmTemplate: {fileID: 0}
-  eventHandlerComponentsAdded: 0
+  eventHandlerComponentsAdded: 1
 --- !u!1001 &5388885386857438921
 PrefabInstance:
   m_ObjectHideFlags: 0
