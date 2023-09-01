@@ -21,6 +21,12 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: 0
+    - useVariable: 1
+      name: "\u6570\u636E/\u6C34\u679C/\u6536\u96C6\u6570"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
     boolVariables: []
     stringVariables: []
     vector2Variables: []
@@ -48,7 +54,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 000000000000000000000000
+    variableCategoryIDs: 00000000000000000000000000000000
   events:
   - "\u6E38\u620F/\u4E3B\u89D2/\u649E\u5230\u5899"
   - "\u6E38\u620F/\u4E3B\u89D2/\u79BB\u5F00\u5899"
@@ -60,3 +66,4 @@ MonoBehaviour:
   - Next/Character
   - Previous/Character
   - "\u6309\u952E/\u6309\u4E0BEsc"
+  - "\u6E38\u620F/\u6C34\u679C/\u6536\u96C6\u8349\u8393"
