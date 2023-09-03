@@ -6,6 +6,12 @@ TagManager:
   tags:
   - Ground
   - Enemy
+  - "\u5267\u60C51"
+  - "\u5267\u60C52"
+  - "\u5267\u60C53"
+  - "\u5267\u60C54"
+  - "\u5267\u60C55"
+  - "\u5267\u60C56"
   layers:
   - Default
   - TransparentFX
