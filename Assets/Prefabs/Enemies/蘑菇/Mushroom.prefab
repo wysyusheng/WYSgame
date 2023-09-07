@@ -1773,7 +1773,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 0101
-        actionIsOpen: 0101
+        actionIsOpen: 0000
         actionStartIndex: 0000000006000000
         actionHashCodes: 68fde3049cdc3905
         unityObjectParams: []
@@ -1876,8 +1876,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 532
-        y: 231.00781
+        x: 573
+        y: 224.00781
         width: 100
         height: 16
       isBreakpoint: 0
@@ -2089,7 +2089,7 @@ MonoBehaviour:
     manualUpdate: 0
     outVariableIndices: 
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     OutputEvents: []
     RestartOnEnable: 1
@@ -2187,7 +2187,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 010101
-        actionIsOpen: 010101
+        actionIsOpen: 000000
         actionStartIndex: 000000000500000007000000
         actionHashCodes: 8760450244e7c204f9cb7200
         unityObjectParams: []
@@ -2480,7 +2480,7 @@ MonoBehaviour:
     manualUpdate: 0
     outVariableIndices: 
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     OutputEvents: []
     RestartOnEnable: 1

@@ -13,7 +13,13 @@ MonoBehaviour:
   m_Name: PlayMakerGlobals
   m_EditorClassIdentifier: 
   variables:
-    floatVariables: []
+    floatVariables:
+    - useVariable: 1
+      name: BackgroundVolume
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 1
     intVariables:
     - useVariable: 1
       name: "\u6570\u636E/\u4E3B\u89D2/\u751F\u547D\u503C"
@@ -23,6 +29,12 @@ MonoBehaviour:
       value: 0
     - useVariable: 1
       name: "\u6570\u636E/\u6C34\u679C/\u6536\u96C6\u6570"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: "\u5173\u5361\u89E3\u9501"
       tooltip: 
       showInInspector: 0
       networkSync: 0
@@ -54,7 +66,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 00000000000000000000000000000000
+    variableCategoryIDs: 00000000000000000000000000000000000000000000000000000000
   events:
   - "\u6E38\u620F/\u4E3B\u89D2/\u649E\u5230\u5899"
   - "\u6E38\u620F/\u4E3B\u89D2/\u79BB\u5F00\u5899"
@@ -76,3 +88,5 @@ MonoBehaviour:
   - "\u6E38\u620F/\u5267\u60C5/\u89E6\u53D1\u5B57\u5E554"
   - "\u6E38\u620F/\u5267\u60C5/\u89E6\u53D1\u5B57\u5E555"
   - "\u6E38\u620F/\u5267\u60C5/\u89E6\u53D1\u5B57\u5E556"
+  - "\u6E38\u620F/\u5173\u5361/\u901A\u51731"
+  - "\u6E38\u620F/\u5173\u5361/\u901A\u5173\u4E8B\u4EF6"
