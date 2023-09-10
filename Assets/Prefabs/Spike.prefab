@@ -302,7 +302,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 0101010101
-        actionIsOpen: 0101010101
+        actionIsOpen: 0000000000
         actionStartIndex: 00000000040000000a0000001200000017000000
         actionHashCodes: 5e69bb0468fde304c9f5790468fece05a4c8bf00
         unityObjectParams: []
@@ -553,7 +553,7 @@ MonoBehaviour:
     manualUpdate: 0
     outVariableIndices: 
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     OutputEvents: []
     RestartOnEnable: 1

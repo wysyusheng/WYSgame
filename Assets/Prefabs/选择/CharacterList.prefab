@@ -1222,8 +1222,12 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4923233321548073520, guid: 0c0ab59d5eece9a4f98cae816c9ff80e, type: 3}
+      propertyPath: fsm.states.Array.data[0].actionData.actionIsOpen.Array.data[1]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4923233321548073520, guid: 0c0ab59d5eece9a4f98cae816c9ff80e, type: 3}
       propertyPath: fsm.states.Array.data[0].actionData.fsmFloatParams.Array.data[3].value
-      value: 0
+      value: -3.83
       objectReference: {fileID: 0}
     - target: {fileID: 4923233321548073520, guid: 0c0ab59d5eece9a4f98cae816c9ff80e, type: 3}
       propertyPath: fsm.states.Array.data[0].actionData.fsmVector2Params.Array.data[0].value.x
@@ -1231,7 +1235,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4923233321548073520, guid: 0c0ab59d5eece9a4f98cae816c9ff80e, type: 3}
       propertyPath: fsm.states.Array.data[0].actionData.fsmVector2Params.Array.data[0].value.y
-      value: 0
+      value: -3.83
       objectReference: {fileID: 0}
     - target: {fileID: 4923233321548073521, guid: 0c0ab59d5eece9a4f98cae816c9ff80e, type: 3}
       propertyPath: m_RootOrder
